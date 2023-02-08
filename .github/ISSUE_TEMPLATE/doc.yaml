@@ -1,0 +1,19 @@
+## Documentation Enhancement Issue Template
+name: 📘 Suggest a documentation change
+description: Suggest a documenation change or a new topic to be covered
+title: "[Doc] <title> "
+labels: ["documentation", "suggestion"]
+
+body:
+  ## Introduction 
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this form!
+
+  ## Feature Description
+  - type: textarea
+    id: doc-description
+    attributes:
+      label: Discription
+      description: Please provide details about the documenation you like to see being added? 

@@ -1,0 +1,74 @@
+## Bug Report Issue Template
+name: 🐞 Report a bug
+description: Report a bug in the code of the project
+title: "[Bug] <title>"
+labels: ["bug", "triage"]
+body:
+
+  ## Introduction 
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+ 
+  ## Bug Description 
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Description
+      description: |
+        Briefly describe the problem you are having.
+      placeholder: |
+        1. Problem
+        2. Current Beharior
+        3. Expected Behavior     
+    validations:
+      required: false                
+  
+  ## Steps to Reproduce
+  - type: textarea
+    id: bug-steps
+    attributes:
+     label: Steps to reproduce
+     description: Steps to reproduce the behavior.
+     placeholder: |
+       1. Go to '...'
+       2. Click on '....'
+       3. Scroll down to '....'
+       4. See error
+    validations:
+      required: false 
+  
+  ## Environment
+  - type: dropdown
+    id: bug-environment
+    attributes:
+      label: "Environment"
+      description: In which environment did the error occure?
+      multiple: true
+      options:
+        - Desktop
+        - Mobile
+    validations:
+      required: false
+
+  ## Screenshot
+  - type: textarea
+    id: bug-screenshot
+    attributes:
+      label: "Screenshots"
+      description: If applicable, add screenshots to help explain your problem. **HINT:** You can drag and drop pictures to the text area.
+      placeholder: |
+        ![DESCRIPTION](LINK.png)
+    validations:
+      required: false
+
+  ## Error Logs
+  - type: textarea
+    id: bug-logs
+    attributes:
+      label: Error logs
+      description: Please provide any relevant logs / Output data. **HINT:** You can paste large files to https://gist.github.com
+      render: shell
+    validations:
+      required: false  

@@ -1,0 +1,20 @@
+## Feature Suggestion Issue Template
+name: 💡 Suggest a feature
+description: Suggest a new feature for contribution
+title: "[Feature] <title> "
+labels: ["feature", "suggestion"]
+
+body:
+  ## Introduction 
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+
+  ## Feature Description
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature Discription
+      description: Please provide details about the feature you like to see implemented? 
+    
