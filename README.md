@@ -1,4 +1,16 @@
 
+<!-- © Allianz. All Rights Reserved. Use of this text is governed by Apache2 License -->
+
+<p align="center">
+  <img src="_layouts/assets/Allianz.png" alt="Allianz"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square" alt="PR Welcome">
+    <img src="https://img.shields.io/badge/license-Apache2-blue.svg?style=flat" alt="TODO">
+</p>
+<br>
+
 # Allianz Open Source Program Office
 
 This is the OSPO website and the central hub for the open source community at Allianz.
