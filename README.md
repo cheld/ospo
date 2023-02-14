@@ -12,12 +12,11 @@
 
 # Allianz Open Source Program Office
 
-This is the OSPO website and the central hub for the open source community at Allianz.
+This is the website of the Allianz Open Source Program Office (OSPO) and the central hub for the open source community at Allianz.
 
 ## Our Mission
 
-The Allianz Open Source Team is an open community of practitioners who aim to create and share knowledge, tools, and other ways to run successful open source projects.  
-We work across departments and remove barriers for consuming or contributing to open source code.
+The Allianz Open Source Team is an open community of practitioners who aim to create and share knowledge, tools, and other ways to run successful open source projects. We work across departments to remove the barriers on open source software contributions and to achieve organizational benefits from community involvement.
 
 We advise and assist on:
 
@@ -29,7 +28,7 @@ We advise and assist on:
 
 ## Purpose of this repository
 
-This repository serves the public website. It contains guidelines and general open source how-tos. Any change is introduced, discussed and applied openly with the help of issues and pull requests. Effectively the Allianz OSPO is an open source project itself.
+This repository serves the public website of the Allianz OSPO. It contains guidelines and open source best practices. Any change is introduced, discussed and applied openly with the help of issues and pull requests. Effectively the Allianz OSPO is an open source project itself.
 
 ## Contributing
 
