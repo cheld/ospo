@@ -1,21 +1,25 @@
-doc-categories:
+# menu ordering of documentation page
+doc-menu-categories:
   - "Using"
   - "Contributing"
   - "Releasing"
   - "Promoting"
   - "How-tos"
 
+# Create an index of all markdown files to generate menu
 collections:
   pages:
     output: true
 
+# Combine assets and layout in single folder
 include:
   - '_layouts'
 
+# Set default layout for all pages
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
     values:
       layout: "default"
 

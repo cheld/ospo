@@ -46,7 +46,7 @@
   <!-- Side navigation -->
   {% if show-sidenav %}
   <div class="side-nav">
-    {% for category in site.doc-categories %}
+    {% for category in site.doc-menu-categories %}
     <a class="collapsible" id="{{category}}"><img class="chevron" src="/_layouts/assets/chevron-right.svg"/><span>{{category}}</span></a>
     <span class="items">
       {% assign categoryDowncase = category | downcase %}
