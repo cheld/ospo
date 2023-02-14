@@ -35,8 +35,6 @@ This repository serves the public website. It contains guidelines and general op
 
 Our project backlog is public and can be found under the projects page. If you want to contribute you can pick an existing issue or create a new one to discuss the intended changes.
 
-The website can be previewed easily using Github Codespaces and running the command `bundle exec jekyll serve` in the Codespace terminal.
-
-More details can be found in the [developer guide](DEVELOPMENT.md) and [contribution guide](CONTRIBUTION.md).
+The website can be modified and previewed easily using Github Codespaces. Paste the command `bundle exec jekyll serve` in the Codespace terminal to serve the site. More details can be found in the [developer guide](DEVELOPMENT.md) and [contribution guide](CONTRIBUTION.md).
 
 ## License
