@@ -1,28 +1,28 @@
 # Development
 
-## Setup in Codespaces
+## Setup a Development Environment in Codespaces
 
-Using Github Codespaces no setup required. Just open the project.
+No setup required when using Github Codespaces. Just open the project.
 
-## Setup in Local DevContainer
+## Setup a Development Environment in VSCode
 
-Using VSCode and Docker no setup required. Just open the project.
+No setup required when using VSCode and Docker. Just open the project in Devcontainer.
 
-## Setup in Local Environment
+## Setup a Development Environment Locally
 
-Using your PC environment, you must install Ruby and Jekyll. Follow the the installation instructions from the Jekyll website.
+Install Ruby and Jekyll following the the instructions from the [Jekyll website](https://jekyllrb.com/docs/installation/).
 
 ## Build the Website
 
 Initially all package dependencies of Jekyll must be installed once. Run the command:
 
-```sh
+```code
 bundle install
 ```
 
 Build the site and serve the content:
 
-```sh
+```code
 bundle exec jekyll serve
 ```
 
