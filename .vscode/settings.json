@@ -2,8 +2,13 @@
     "cSpell.words": [
         "Anson",
         "bierner",
+        "Codespace",
+        "Codespaces",
         "devcontainers",
         "ospo",
         "yzhang"
-    ]
+    ],
+    "markdownlint.config": {
+        "MD033": false
+    }
 }
