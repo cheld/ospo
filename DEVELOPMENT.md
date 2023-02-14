@@ -22,10 +22,10 @@ bundle exec jekyll serve
 
 ## Jekyll Structure
 
-* Folder __layouts_ contains html, css and images. In order to keep development and folder structure as simple as possible, the complete layout is contained in only one file (__layout/default.html_).
-* Folder __pages_ contains landing page in html
-* Folder __pages/documentation_ contains all markdown pages. The folder names align with the menu structure
-* File __config.yml_ contains the top-level menu order of the documentation pages
+* Folder **_layouts** contains html, css and images. In order to keep development and folder structure as simple as possible, the complete layout is contained in only one file (__layout/default.html_).
+* Folder **_pages** contains landing page in html
+* Folder **_pages/documentation** contains all markdown pages. The folder names align with the menu structure
+* File **_config.yml** contains the top-level menu order of the documentation pages
 
 ## Design
 
