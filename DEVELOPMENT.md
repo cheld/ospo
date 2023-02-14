@@ -4,8 +4,8 @@
 
 * **Codespaces** - No setup required when using Github Codespaces. Just open the project
 * **VSCode** - No setup required when using VSCode and Docker. Just open the project in Devcontainer.
-* **Local** - Install Ruby and Jekyll following the the instructions from the [Jekyll website](https://jekyllrb.com/docs/installation/).
-
+* **Local** - Follow the instructions from the [Jekyll website](https://jekyllrb.com/docs/installation/) to install Ruby and Jekyll
+  
 ## Build the Website
 
 Initially all package dependencies of Jekyll must be installed once. Run the command:
