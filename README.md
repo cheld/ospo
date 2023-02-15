@@ -34,6 +34,6 @@ This repository serves the public website of the Allianz OSPO. It contains guide
 
 Our project backlog is public and can be found under the projects page. If you want to contribute you can pick an existing issue or create a new one to discuss the intended changes.
 
-The website can be modified and previewed easily using Github Codespaces. Paste the command `bundle exec jekyll serve` in the Codespace terminal to serve the site. More details can be found in the [developer guide](DEVELOPMENT.md) and [contribution guide](CONTRIBUTION.md).
+The website can be modified and previewed easily using Github Codespaces. Run the command `bundle exec jekyll serve` in the Codespace terminal to launch Jekyll. More details can be found in the [developer guide](DEVELOPMENT.md) and [contribution guide](CONTRIBUTION.md).
 
 ## License
